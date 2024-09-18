@@ -4,4 +4,7 @@ h1 {
 
 #header1 {
   color: green;
+  width: fit-content;
+  padding: 6px 12px;
+  border: 10px double green;
 }
